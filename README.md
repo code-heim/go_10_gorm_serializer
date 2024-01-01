@@ -1,0 +1,1 @@
+# go_10_gorm_serializer
